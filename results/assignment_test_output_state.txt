@@ -1,0 +1,90 @@
+00:00:00:000
+State for model input_reader is next time: 00:00:00:000
+State for model assignment1 is :- Submission Number: 0 & Assignment Model State: 0
+00:00:00:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 0 & Assignment Model State: 0
+00:00:10:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 1 & Assignment Model State: 1
+00:00:11:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 1 & Assignment Model State: 0
+00:00:20:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 2 & Assignment Model State: 1
+00:00:21:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 2 & Assignment Model State: 0
+00:00:30:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 3 & Assignment Model State: 1
+00:00:31:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 3 & Assignment Model State: 0
+00:00:40:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 4 & Assignment Model State: 1
+00:00:41:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 4 & Assignment Model State: 0
+00:00:50:000
+State for model input_reader is next time: 00:01:00:000
+State for model assignment1 is :- Submission Number: 5 & Assignment Model State: 1
+00:00:51:000
+State for model input_reader is next time: 00:01:00:000
+State for model assignment1 is :- Submission Number: 5 & Assignment Model State: 0
+00:01:50:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 6 & Assignment Model State: 1
+00:01:51:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 6 & Assignment Model State: 0
+00:02:00:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 7 & Assignment Model State: 1
+00:02:01:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 7 & Assignment Model State: 0
+00:02:10:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 8 & Assignment Model State: 1
+00:02:11:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 8 & Assignment Model State: 0
+00:02:20:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 9 & Assignment Model State: 1
+00:02:21:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 9 & Assignment Model State: 0
+00:02:30:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 10 & Assignment Model State: 1
+00:02:31:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 10 & Assignment Model State: 0
+00:02:40:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 11 & Assignment Model State: 1
+00:02:41:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 11 & Assignment Model State: 0
+00:02:50:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 12 & Assignment Model State: 1
+00:02:51:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 12 & Assignment Model State: 0
+00:03:00:000
+State for model input_reader is next time: 00:00:20:000
+State for model assignment1 is :- Submission Number: 13 & Assignment Model State: 1
+00:03:01:000
+State for model input_reader is next time: 00:00:20:000
+State for model assignment1 is :- Submission Number: 13 & Assignment Model State: 0
+00:03:20:000
+State for model input_reader is next time: inf
+State for model assignment1 is :- Submission Number: 14 & Assignment Model State: 1
+00:03:21:000
+State for model input_reader is next time: inf
+State for model assignment1 is :- Submission Number: 14 & Assignment Model State: 0

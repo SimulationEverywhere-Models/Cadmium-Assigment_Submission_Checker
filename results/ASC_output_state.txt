@@ -1,0 +1,406 @@
+00:00:00:000
+State for model input_reader is next time: 00:00:00:000
+State for model assignment1 is :- Submission Number: 0 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 0 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 0 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 0 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 0 & Plagiarism Checker Model State: 0
+00:00:00:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 0 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 0 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 0 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 0 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 0 & Plagiarism Checker Model State: 0
+00:00:10:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 1 & Assignment Model State: 1
+State for model evaluator1 is Submission Number: 0 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 0 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 0 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 0 & Plagiarism Checker Model State: 0
+00:00:11:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 1 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 0 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 1 & Time Checker Model State: 1
+State for model plagiarismchecker1 is Submission Number: 1 & Plagiarism Checker Model State: 1
+State for model mailchecker1 is Submission Number: 1 & Plagiarism Checker Model State: 1
+00:00:12:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 1 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 1 & Evaluator Model State: 1
+State for model timechecker1 is Submission Number: 1 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 1 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 1 & Plagiarism Checker Model State: 0
+00:00:13:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 1 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 1 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 1 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 1 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 1 & Plagiarism Checker Model State: 0
+00:00:20:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 2 & Assignment Model State: 1
+State for model evaluator1 is Submission Number: 1 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 1 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 1 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 1 & Plagiarism Checker Model State: 0
+00:00:21:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 2 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 1 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 2 & Time Checker Model State: 1
+State for model plagiarismchecker1 is Submission Number: 2 & Plagiarism Checker Model State: 1
+State for model mailchecker1 is Submission Number: 2 & Plagiarism Checker Model State: 1
+00:00:22:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 2 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 2 & Evaluator Model State: 1
+State for model timechecker1 is Submission Number: 2 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 2 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 2 & Plagiarism Checker Model State: 0
+00:00:23:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 2 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 2 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 2 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 2 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 2 & Plagiarism Checker Model State: 0
+00:00:30:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 3 & Assignment Model State: 1
+State for model evaluator1 is Submission Number: 2 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 2 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 2 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 2 & Plagiarism Checker Model State: 0
+00:00:31:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 3 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 2 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 3 & Time Checker Model State: 1
+State for model plagiarismchecker1 is Submission Number: 3 & Plagiarism Checker Model State: 1
+State for model mailchecker1 is Submission Number: 3 & Plagiarism Checker Model State: 1
+00:00:32:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 3 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 3 & Evaluator Model State: 1
+State for model timechecker1 is Submission Number: 3 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 3 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 3 & Plagiarism Checker Model State: 0
+00:00:33:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 3 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 3 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 3 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 3 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 3 & Plagiarism Checker Model State: 0
+00:00:40:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 4 & Assignment Model State: 1
+State for model evaluator1 is Submission Number: 3 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 3 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 3 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 3 & Plagiarism Checker Model State: 0
+00:00:41:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 4 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 3 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 4 & Time Checker Model State: 1
+State for model plagiarismchecker1 is Submission Number: 4 & Plagiarism Checker Model State: 1
+State for model mailchecker1 is Submission Number: 4 & Plagiarism Checker Model State: 1
+00:00:42:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 4 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 4 & Evaluator Model State: 1
+State for model timechecker1 is Submission Number: 4 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 4 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 4 & Plagiarism Checker Model State: 0
+00:00:43:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 4 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 4 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 4 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 4 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 4 & Plagiarism Checker Model State: 0
+00:00:50:000
+State for model input_reader is next time: 00:01:00:000
+State for model assignment1 is :- Submission Number: 5 & Assignment Model State: 1
+State for model evaluator1 is Submission Number: 4 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 4 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 4 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 4 & Plagiarism Checker Model State: 0
+00:00:51:000
+State for model input_reader is next time: 00:01:00:000
+State for model assignment1 is :- Submission Number: 5 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 4 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 5 & Time Checker Model State: 1
+State for model plagiarismchecker1 is Submission Number: 5 & Plagiarism Checker Model State: 1
+State for model mailchecker1 is Submission Number: 5 & Plagiarism Checker Model State: 1
+00:00:52:000
+State for model input_reader is next time: 00:01:00:000
+State for model assignment1 is :- Submission Number: 5 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 5 & Evaluator Model State: 1
+State for model timechecker1 is Submission Number: 5 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 5 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 5 & Plagiarism Checker Model State: 0
+00:00:53:000
+State for model input_reader is next time: 00:01:00:000
+State for model assignment1 is :- Submission Number: 5 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 5 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 5 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 5 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 5 & Plagiarism Checker Model State: 0
+00:01:50:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 6 & Assignment Model State: 1
+State for model evaluator1 is Submission Number: 5 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 5 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 5 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 5 & Plagiarism Checker Model State: 0
+00:01:51:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 6 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 5 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 6 & Time Checker Model State: 1
+State for model plagiarismchecker1 is Submission Number: 6 & Plagiarism Checker Model State: 1
+State for model mailchecker1 is Submission Number: 6 & Plagiarism Checker Model State: 1
+00:01:52:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 6 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 6 & Evaluator Model State: 1
+State for model timechecker1 is Submission Number: 6 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 6 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 6 & Plagiarism Checker Model State: 0
+00:01:53:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 6 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 6 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 6 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 6 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 6 & Plagiarism Checker Model State: 0
+00:02:00:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 7 & Assignment Model State: 1
+State for model evaluator1 is Submission Number: 6 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 6 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 6 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 6 & Plagiarism Checker Model State: 0
+00:02:01:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 7 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 6 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 7 & Time Checker Model State: 1
+State for model plagiarismchecker1 is Submission Number: 7 & Plagiarism Checker Model State: 1
+State for model mailchecker1 is Submission Number: 7 & Plagiarism Checker Model State: 1
+00:02:02:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 7 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 7 & Evaluator Model State: 1
+State for model timechecker1 is Submission Number: 7 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 7 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 7 & Plagiarism Checker Model State: 0
+00:02:03:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 7 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 7 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 7 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 7 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 7 & Plagiarism Checker Model State: 0
+00:02:10:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 8 & Assignment Model State: 1
+State for model evaluator1 is Submission Number: 7 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 7 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 7 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 7 & Plagiarism Checker Model State: 0
+00:02:11:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 8 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 7 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 8 & Time Checker Model State: 1
+State for model plagiarismchecker1 is Submission Number: 8 & Plagiarism Checker Model State: 1
+State for model mailchecker1 is Submission Number: 8 & Plagiarism Checker Model State: 1
+00:02:12:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 8 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 8 & Evaluator Model State: 1
+State for model timechecker1 is Submission Number: 8 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 8 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 8 & Plagiarism Checker Model State: 0
+00:02:13:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 8 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 8 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 8 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 8 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 8 & Plagiarism Checker Model State: 0
+00:02:20:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 9 & Assignment Model State: 1
+State for model evaluator1 is Submission Number: 8 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 8 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 8 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 8 & Plagiarism Checker Model State: 0
+00:02:21:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 9 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 8 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 9 & Time Checker Model State: 1
+State for model plagiarismchecker1 is Submission Number: 9 & Plagiarism Checker Model State: 1
+State for model mailchecker1 is Submission Number: 9 & Plagiarism Checker Model State: 1
+00:02:22:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 9 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 9 & Evaluator Model State: 1
+State for model timechecker1 is Submission Number: 9 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 9 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 9 & Plagiarism Checker Model State: 0
+00:02:23:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 9 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 9 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 9 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 9 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 9 & Plagiarism Checker Model State: 0
+00:02:30:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 10 & Assignment Model State: 1
+State for model evaluator1 is Submission Number: 9 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 9 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 9 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 9 & Plagiarism Checker Model State: 0
+00:02:31:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 10 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 9 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 10 & Time Checker Model State: 1
+State for model plagiarismchecker1 is Submission Number: 10 & Plagiarism Checker Model State: 1
+State for model mailchecker1 is Submission Number: 10 & Plagiarism Checker Model State: 1
+00:02:32:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 10 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 10 & Evaluator Model State: 1
+State for model timechecker1 is Submission Number: 10 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 10 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 10 & Plagiarism Checker Model State: 0
+00:02:33:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 10 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 10 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 10 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 10 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 10 & Plagiarism Checker Model State: 0
+00:02:40:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 11 & Assignment Model State: 1
+State for model evaluator1 is Submission Number: 10 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 10 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 10 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 10 & Plagiarism Checker Model State: 0
+00:02:41:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 11 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 10 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 11 & Time Checker Model State: 1
+State for model plagiarismchecker1 is Submission Number: 11 & Plagiarism Checker Model State: 1
+State for model mailchecker1 is Submission Number: 11 & Plagiarism Checker Model State: 1
+00:02:42:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 11 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 11 & Evaluator Model State: 1
+State for model timechecker1 is Submission Number: 11 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 11 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 11 & Plagiarism Checker Model State: 0
+00:02:43:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 11 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 11 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 11 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 11 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 11 & Plagiarism Checker Model State: 0
+00:02:50:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 12 & Assignment Model State: 1
+State for model evaluator1 is Submission Number: 11 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 11 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 11 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 11 & Plagiarism Checker Model State: 0
+00:02:51:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 12 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 11 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 12 & Time Checker Model State: 1
+State for model plagiarismchecker1 is Submission Number: 12 & Plagiarism Checker Model State: 1
+State for model mailchecker1 is Submission Number: 12 & Plagiarism Checker Model State: 1
+00:02:52:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 12 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 12 & Evaluator Model State: 1
+State for model timechecker1 is Submission Number: 12 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 12 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 12 & Plagiarism Checker Model State: 0
+00:02:53:000
+State for model input_reader is next time: 00:00:10:000
+State for model assignment1 is :- Submission Number: 12 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 12 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 12 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 12 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 12 & Plagiarism Checker Model State: 0
+00:03:00:000
+State for model input_reader is next time: 00:00:20:000
+State for model assignment1 is :- Submission Number: 13 & Assignment Model State: 1
+State for model evaluator1 is Submission Number: 12 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 12 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 12 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 12 & Plagiarism Checker Model State: 0
+00:03:01:000
+State for model input_reader is next time: 00:00:20:000
+State for model assignment1 is :- Submission Number: 13 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 12 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 13 & Time Checker Model State: 1
+State for model plagiarismchecker1 is Submission Number: 13 & Plagiarism Checker Model State: 1
+State for model mailchecker1 is Submission Number: 13 & Plagiarism Checker Model State: 1
+00:03:02:000
+State for model input_reader is next time: 00:00:20:000
+State for model assignment1 is :- Submission Number: 13 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 13 & Evaluator Model State: 1
+State for model timechecker1 is Submission Number: 13 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 13 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 13 & Plagiarism Checker Model State: 0
+00:03:03:000
+State for model input_reader is next time: 00:00:20:000
+State for model assignment1 is :- Submission Number: 13 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 13 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 13 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 13 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 13 & Plagiarism Checker Model State: 0
+00:03:20:000
+State for model input_reader is next time: inf
+State for model assignment1 is :- Submission Number: 14 & Assignment Model State: 1
+State for model evaluator1 is Submission Number: 13 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 13 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 13 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 13 & Plagiarism Checker Model State: 0
+00:03:21:000
+State for model input_reader is next time: inf
+State for model assignment1 is :- Submission Number: 14 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 13 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 14 & Time Checker Model State: 1
+State for model plagiarismchecker1 is Submission Number: 14 & Plagiarism Checker Model State: 1
+State for model mailchecker1 is Submission Number: 14 & Plagiarism Checker Model State: 1
+00:03:22:000
+State for model input_reader is next time: inf
+State for model assignment1 is :- Submission Number: 14 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 14 & Evaluator Model State: 1
+State for model timechecker1 is Submission Number: 14 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 14 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 14 & Plagiarism Checker Model State: 0
+00:03:23:000
+State for model input_reader is next time: inf
+State for model assignment1 is :- Submission Number: 14 & Assignment Model State: 0
+State for model evaluator1 is Submission Number: 14 & Evaluator Model State: 0
+State for model timechecker1 is Submission Number: 14 & Time Checker Model State: 0
+State for model plagiarismchecker1 is Submission Number: 14 & Plagiarism Checker Model State: 0
+State for model mailchecker1 is Submission Number: 14 & Plagiarism Checker Model State: 0

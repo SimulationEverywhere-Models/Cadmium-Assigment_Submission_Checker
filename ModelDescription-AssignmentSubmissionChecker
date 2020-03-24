@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Models>
+	<Model name="AssignmentSubmissionChecker" type="coupled" description="a coupled system for a simple assignment submission system.">
+		<Inputs>
+			<Port name="submitRequest" type="int" description="a new assignment has been submitted"/>		
+		</Inputs>
+		<Outputs>
+			<Port name="Result" type="int" description="the output showing if the submission was successful or not"/>
+		</Outputs>
+		<Files>	
+			<File name="main.cpp" type="CPP" location="/top_model"/>
+			<File name="asc_input.txt" type="TXT" location="/input"/>
+			<File name="ASC_output_messages.txt" type="TXT" location="/results"/>
+			<File name="ASC_output_state.txt" type="TXT" location="/results"/>
+		</Files>
+	</Model>
+	<Model name="Checker" type="coupled" description="a coupled model checking the submission time, possible plagiarism and submission mail id.">
+		<Inputs>
+			<Port name="info" type="int" description="6 digit integer consisting of submission time, aplagiarism status and mail id"/>			
+		</Inputs>
+		<Outputs>
+			<Port name="T_output" type="int" description="Output whether the submission was submitted on time"/>	
+			<Port name="P_output" type="int" description="Output whether the assignmnet is plagiarised or not"/>
+			<Port name="M_output" type="int" description="Output whether the submission was done to correct email id or not"/>		
+		</Outputs>
+	</Model>
+	<Model name="Assignment" type="atomic" description="Gives the details of the assignmnet when submitRequest input is given.">
+		<Inputs>
+			<Port name="submitRequest" type="int" description="A new assignmnet is submitted"/>				
+		</Inputs>
+		<Outputs>
+			<Port name="info" type="int" description="gives the details of the submitted assignmnet"/>
+		</Outputs>
+		<Files>
+			<File name="assignment.h" type="H" location="/atomics"/>
+			<File name="assignment.cpp" type="CPP" location="/test"/>		
+			<File name="assignment_input_test.txt" type="TXT" location="/input"/>			
+			<File name="assignment_test_output_messages.txt" type="TXT" location="/results"/>
+			<File name="assignment_test_output_state.txt" type="TXT" location="/results"/>
+		</Files>
+	</Model>
+	<Model name="TimeCheker" type="atomic" description="Checks the time of the submission.">
+		<Inputs>
+			<Port name="T_info" type="int" description="gives the details of the submitted assignmnet"/>			
+		</Inputs>
+		<Outputs>
+			<Port name="T_output" type="int" description="Outputs whether the submisison was on time"/>
+		</Outputs>
+		<Files>
+			<File name="timechecker.h" type="H" location="/atomics"/>
+			<File name="timechecker.cpp" type="CPP" location="/test"/>		
+			<File name="timechecker_input_test.txt" type="TXT" location="/input"/>			
+			<File name="timechecker_test_output_messages.txt" type="TXT" location="/results"/>
+			<File name="timechecker_test_output_state.txt" type="TXT" location="/results"/>
+		</Files>
+	</Model>
+	<Model name="PlagiarismChecker" type="atomic" description="Checks whether the assignment is plagiarized.">
+		<Inputs>
+			<Port name="P_info" type="int" description="gives the details of the submitted assignmnet"/>			
+		</Inputs>
+		<Outputs>
+			<Port name="P_output" type="int" description="Outputs whether the assignment is plagiarized"/>
+		</Outputs>
+		<Files>
+			<File name="plagiarismchecker.h" type="H" location="/atomics"/>
+			<File name="plagiarismchecker.cpp" type="CPP" location="/test"/>		
+			<File name="plagiarismchecker_input_test.txt" type="TXT" location="/input"/>			
+			<File name="plagiarismchecker_test_output_messages.txt" type="TXT" location="/results"/>
+			<File name="plagiarismchecker_test_output_state.txt" type="TXT" location="/results"/>
+		</Files>
+	</Model>
+	<Model name="MailChecker" type="atomic" description="Checks whether the assignment is submitted to correct mail id.">
+		<Inputs>
+			<Port name="M_info" type="int" description="gives the details of the submitted assignmnet"/>			
+		</Inputs>
+		<Outputs>
+			<Port name="M_output" type="int" description="Outputs whether the assignment is submitted to correct mail id"/>
+		</Outputs>
+		<Files>
+			<File name="mailchecker.h" type="H" location="/atomics"/>
+			<File name="mailchecker.cpp" type="CPP" location="/test"/>		
+			<File name="mailchecker_input_test.txt" type="TXT" location="/input"/>			
+			<File name="mailchecker_test_output_messages.txt" type="TXT" location="/results"/>
+			<File name="mailchecker_test_output_state.txt" type="TXT" location="/results"/>
+	</Model>
+	<Model name="Evaluator" type="atomic" description="Output whethet the submission was successful or not.">
+		<Inputs>
+			<Port name="T_output" type="int" description="Output whether the submission was late or on time"/>	
+			<Port name="P_output" type="int" description="Output whether the assignmnet is plagiarised or not"/>
+			<Port name="M_output" type="int" description="Output whether the submission was done to correct email id or not"/>			
+		</Inputs>
+		<Outputs>
+			<Port name="Result" type="int" description="Output whethet the submission was successful or not"/>
+		</Outputs>
+		<Files>
+			<File name="evaluator.h" type="H" location="/atomics"/>
+			<File name="evaluator.cpp" type="CPP" location="/test"/>	
+			<File name="evaluator_input_test_timechecker.txt" type="TXT" location="/input"/>
+			<File name="evaluator_input_test_plagiarismchecker.txt" type="TXT" location="/input"/>	
+			<File name="evaluator_input_test_mailchecker.txt" type="TXT" location="/input"/>			
+			<File name="evaluator_test_output_messages.txt" type="TXT" location="/results"/>
+			<File name="mevaluator_test_output_state.txt" type="TXT" location="/results"/>
+		</Files>
+</Models>
